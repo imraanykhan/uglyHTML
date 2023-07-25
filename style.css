@@ -1,0 +1,60 @@
+body{
+    text-align:center;
+background-color: black;
+color: silver;
+}
+h1{
+    background-color:royalblue;
+    color: gold;
+}
+h2{
+    color: gold;
+    background-color: royalblue;
+}
+h3{
+
+    color: whitesmoke;
+
+}
+
+div{
+    text-align: center;
+    border: 3px solid moccasin;
+    width: 700px;
+
+    padding: auto;
+    margin: auto;
+}
+
+#squirtle_container h3{
+    
+    color: aqua;
+    font-style: italic;
+    }
+  #charmander_container h3{
+    
+  color: red;
+  font-style: italic;
+    }    
+    
+    #bulbasaur_container h3{
+    
+            color: green;
+            font-style: italic;
+            }
+     #squirtle_container p{
+    
+         color: aqua;
+        font-size: 20px;
+             }
+              #charmander_container p{
+                
+              color: red;
+              font-size: 20px;
+                }    
+                
+                #bulbasaur_container p{
+                    font-size: 20px;
+                        color: green;
+                   
+                        }
